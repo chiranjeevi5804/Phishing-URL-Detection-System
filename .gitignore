@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+scans.db
+.env
+ml/model.joblib
+.DS_Store
