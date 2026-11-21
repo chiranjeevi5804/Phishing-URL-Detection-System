@@ -1,0 +1,20 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": [
+    [
+      200,
+      0
+    ],
+    [
+      0,
+      200
+    ]
+  ],
+  "training_rows": 1599,
+  "test_rows": 400,
+  "dataset": "urls.csv",
+  "demo_data": true
+}
